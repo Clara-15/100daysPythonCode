@@ -8,7 +8,7 @@ describeFood = input("Enter a description of the food: ")
 diyItem = input("Enter a DIY item: ")
 
 # Printing the menu description
-print("What's on the menu today?", nameOfFood, "with", typeOfPlant, describeFood, "ugaserved on", diyItem)
+print("What's on the menu today?", nameOfFood, "with", typeOfPlant, describeFood, "served on", diyItem)
 
 
 
