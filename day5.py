@@ -39,7 +39,7 @@ if answer == "moses":
 else:
     print("Incorrect. Let's try another one.")
 
-print("Clue 3: I was thrown into a lions' den for praying to God.")
+print("I was thrown into a lions' den for praying to God.")
 answer = input("Who am I? ")
 if answer == "daniel":
     print("Correct! I am Daniel.")
