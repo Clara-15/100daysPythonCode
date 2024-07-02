@@ -4,6 +4,8 @@
 print("Welcome to Bible Character Game")
 bibleCharacter= input("Who is your favourite Bible character? ")
 
+
+
 if bibleCharacter == "Esther":
     print("She was Mordecai's niece!")
     confirmation = input("Did you know that?")
